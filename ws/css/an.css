@@ -1,0 +1,17 @@
+.an {
+    position: relative;
+    width: 80px;
+    height: 20px;
+    margin: 50px auto;
+    background-color: rgba(255, 251, 126, 0.9);
+    padding: 20px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 5);
+	float: center;
+}
+.rnu2 {
+	font-size: 20px;
+	text-align: center;
+	color: coral;
+}

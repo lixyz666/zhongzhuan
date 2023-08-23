@@ -1,0 +1,17 @@
+
+.music1 {
+    position: relative;
+    width: 350px;
+    height: 80px;
+    margin: 50px auto;
+    background-color: rgba(138, 115, 255, 0.9);
+    padding: 20px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 5);
+	float: left;
+}
+.musictext {
+	font-size: 20px;
+	color: aqua;
+}

@@ -1,0 +1,25 @@
+.glass-box1 {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    margin: 50px auto;
+    background-color: rgba(255, 182, 80, 0.9);
+    padding: 20px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 5);
+    float: left;
+}
+.bige {
+    position: relative;
+    width: 200px;
+    height: 300px;
+    margin: 50px auto;
+    background-color: rgba(255, 251, 126, 0.9);
+    padding: 20px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 5);
+	float: center;
+}
+
